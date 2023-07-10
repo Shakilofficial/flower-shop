@@ -95,6 +95,7 @@ body {
   line-height: 35px;
   text-decoration-line: underline;
 }
+/* mini feature bar related styles  */
 .feature-bar {
   height: 320px;
   border-radius: 8px;
@@ -110,4 +111,36 @@ body {
   color: rgba(39, 39, 39, 0.8);
   font-size: 24px;
   font-weight: 600;
+}
+/* deal section related styles  */
+.deal {
+  height: 620px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 100px;
+  border: 0;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  margin-bottom: 100px;
+}
+.deal-info {
+  margin-left: 350px;
+  text-align: center;
+}
+.deal-img {
+  margin-right: 400px;
+}
+.deal-title {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+}
+.highlight {
+  color: #e55473;
+}
+.description {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
 }
