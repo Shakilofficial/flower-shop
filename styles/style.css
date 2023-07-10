@@ -156,3 +156,23 @@ body {
   width: 342px;
   height: 396px;
 }
+/* latest deal section related styles */
+.deal-feature {
+  height: 450px;
+  margin: 40px 220px 100px 220px;
+  background-image: url("../Flower Asset/Rectangle\ 9.png");
+  background-repeat: no-repeat;
+  align-items: center;
+  text-align: center;
+}
+.contact input[type="email"] {
+  padding: 18px 35px;
+  width: 700px;
+  border: 0;
+  border-radius: 8px;
+  background: #fff;
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 16px;
+  font-weight: 400;
+  margin-right: 20px;
+}
