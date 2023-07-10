@@ -144,3 +144,15 @@ body {
   font-size: 18px;
   font-weight: 400;
 }
+
+/* instagram section related styles */
+.gallery {
+  display: flex;
+  margin: 40px 220px 100px 220px;
+  align-items: center;
+  justify-content: space-around;
+}
+.photos {
+  width: 342px;
+  height: 396px;
+}
